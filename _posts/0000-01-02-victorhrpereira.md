@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Nani
+omae wa mou shindeiru
 Use the left arrow to go back!
